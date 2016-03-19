@@ -1,0 +1,7 @@
+'prompts contain knowable defaults'
+'prompts contain turtle.json as defaults'
+'<CR> causes defaults'
+'SIGKILL causes defaults'
+'BLANK causes defaults'
+'Config generated with prompt answers'
+'--force generates default config'
